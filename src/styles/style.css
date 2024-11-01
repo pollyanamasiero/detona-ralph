@@ -48,6 +48,7 @@
 }
 
 #footer {
+    font-size: 12px;
     background-color: #c18a78;
     display: flex;
     text-align: center;
